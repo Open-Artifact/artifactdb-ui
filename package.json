@@ -5,5 +5,19 @@
   "main": "index.js",
   "scripts": {},
   "author": "Open Artifact",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Open-Artifact/artifactdb-ui.git"
+  },
+  "keywords": [
+    "artifact",
+    "artifactdb",
+    "valve",
+    "card game"
+  ],
+  "bugs": {
+    "url": "https://github.com/Open-Artifact/artifactdb-ui/issues"
+  },
+  "homepage": "https://github.com/Open-Artifact/artifactdb-ui#readme"
 }
