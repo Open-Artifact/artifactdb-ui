@@ -11,11 +11,9 @@ Using the assets is as simple as importing them using import/require or passing 
 
 ## Webpack React Example
 ```javascript
-import heroIcon from '@open-artifact/artifactdb/assets/hero_icon.png'
+import ui from '@open-artifact/artifactdb'
 ...
-<img src={heroIcon}/>
+<img src={ui.heroIcon.file}/>
 ```
 
-To make the path shorter you can set up a resolve path rule in your config.
-
-https://webpack.js.org/configuration/resolve/
+`*.file:` file is the image, `*.path` relative path.
