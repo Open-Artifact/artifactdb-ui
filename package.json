@@ -1,6 +1,6 @@
 {
   "name": "@open-artifact/artifactdb-ui",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Artifact UI assets",
   "main": "index.js",
   "scripts": {},
