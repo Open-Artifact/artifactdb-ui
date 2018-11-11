@@ -7,7 +7,7 @@
 
 Using the assets is as simple as importing them using import/require or passing just a relative path.
 
-![alt text](https://raw.githubusercontent.com/Open-Artifact/artifactdb-ui/master/assets/hero.png "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/Open-Artifact/artifactdb-ui/master/assets/hero-icon.png "Logo Title Text 1")
 
 ## Webpack React Example
 ```javascript
