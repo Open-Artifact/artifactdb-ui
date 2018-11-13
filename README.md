@@ -1,5 +1,5 @@
 # ArtifactDB-UI
-This repository holds all the ingame UI art assets for the game  [Artifact by Valve](http://playartifact.com).
+This repository holds all the ingame UI assets for the game  [Artifact by Valve](http://playartifact.com).
 Check out [ArtifactDB](https://github.com/ottah/ArtifactDB) for more info & other card resources!
 
 # Installation
@@ -24,6 +24,9 @@ The default import for artifactdb-ui is index.js and it only returns the path of
 const ui = require('@open-artifact/artifactdb-ui');
 console.log(ui.heroIcon) //./assets/hero-icon.png
 ```
+
+## Fonts
+Fonts are available in `assets/fonts/`.
 
 # Properties
 | Property           | Path                           |
